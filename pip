@@ -1,0 +1,4 @@
+pip install django-python3-ldap
+pip install -U django-celery-beat
+pip install -U django-celery-results
+
